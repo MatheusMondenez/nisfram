@@ -1,2 +1,2 @@
-# nisfram
+# NISFRAM
 NISFRAM - Sistema de Gestão Pedagógica
